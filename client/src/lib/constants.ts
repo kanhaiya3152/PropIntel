@@ -103,7 +103,7 @@ export enum PropertyTypeEnum {
 
 export const PropertyTypeIcons: Record<PropertyTypeEnum, LucideIcon> = {
   Rooms: Home,
-  Tinyhouse: Warehouse,
+  Tinyhouse: Warehouse,      
   Apartment: Building,
   Villa: Castle,
   Townhouse: Home,
